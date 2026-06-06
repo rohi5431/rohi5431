@@ -91,6 +91,14 @@ Created a full-stack stock market simulation platform with real-time market data
 🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
 
+## 🎯 2026 Goals
+
+- Build production-grade AI applications
+- Master System Design
+- Contribute to Open Source
+- Crack Software Engineering roles
+
+
 ## 👨‍💻 Currently Working On
 
 - Building scalable backend systems  
