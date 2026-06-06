@@ -81,12 +81,6 @@ Created a full-stack stock market simulation platform with real-time market data
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohi5431&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohi5431&layout=compact&theme=github_dark)
-
----
 
 ## 👨‍💻 Currently Working On
 
