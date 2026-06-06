@@ -13,7 +13,7 @@ Backend Engineer | FastAPI & MERN Developer | Distributed Systems | AI/ML Integr
 - ⚡ Building scalable real-time systems  
 - 🤖 Interested in AI/ML integration  
 - 📚 Strong in DSA & System Design  
-- 🏆 Solved 500+ DSA problems  
+- 🏆 Solved 600+ DSA problems  
 
 ---
 
