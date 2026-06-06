@@ -80,6 +80,13 @@ Developed an enterprise-grade file sharing platform with AES-256 encryption, OTP
 Created a full-stack stock market simulation platform with real-time market data streaming, portfolio management, and AI-driven trading signals. Integrated FastAPI-based ML services for Buy/Sell predictions, anomaly detection, and intelligent market insights.
 
 ---
+## 💻 Coding Profiles
+
+🏅 LeetCode: 600+ Problems Solved
+
+🔗 https://leetcode.com/u/_rohi5431/
+
+🔗 GeeksforGeeks:[ Your Profile](https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity)
 
 
 ## 👨‍💻 Currently Working On
