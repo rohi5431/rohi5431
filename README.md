@@ -88,7 +88,7 @@ Created a full-stack stock market simulation platform with real-time market data
 
 🏅 GeeksforGeeks: 200+ Problem Solved
 
-🔗 [ Your Profile](https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity)
+🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
 
 ## 👨‍💻 Currently Working On
