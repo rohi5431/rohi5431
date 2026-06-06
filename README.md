@@ -67,19 +67,17 @@ Backend Engineer | FastAPI & MERN Developer | Distributed Systems | AI/ML Integr
 
 ---
 
-## 📌 Featured Projects
-
 ### 🚀 Distributed Job Queue System
-Production-grade distributed job queue built with BullMQ, Redis, Socket.IO, Node.js, and live analytics dashboards.
+
+Built a production-grade distributed job processing platform using BullMQ, Redis, Socket.IO, and Node.js. Features concurrent worker processing, retry mechanisms, dead-letter queues, and real-time monitoring dashboards for scalable background task execution.
 
 ### 🔐 Secure File Sharing System
-Encrypted file sharing platform with AI-powered DLP, OTP-based access, JWT authentication, and real-time threat alerts.
+
+Developed an enterprise-grade file sharing platform with AES-256 encryption, OTP-based secure access, AI-powered Data Loss Prevention (DLP), and real-time anomaly detection. Ensures secure storage, sharing, and monitoring of sensitive files through a security-first architecture.
 
 ### 📈 AI-Powered Stock Market Platform
-Real-time trading simulation platform with portfolio tracking, ML-based Buy/Sell signals, and anomaly detection.
 
-### 🤖 Enterprise RAG Platform
-Document ingestion, vector search, FastAPI APIs, and LLM-powered question answering system.
+Created a full-stack stock market simulation platform with real-time market data streaming, portfolio management, and AI-driven trading signals. Integrated FastAPI-based ML services for Buy/Sell predictions, anomaly detection, and intelligent market insights.
 
 ---
 
