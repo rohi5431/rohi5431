@@ -90,18 +90,21 @@ Created a full-stack stock market simulation platform with real-time market data
 
 🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohi5431&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohi5431&layout=compact&theme=github_dark)
-
----
 
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohi5431&theme=github-dark)
 
 ---
+
+📌 Key Areas:
+- Backend Development (Node.js, Express.js, FastAPI)
+- Distributed Systems & Real-Time Applications
+- AI/ML Integration & RAG Pipelines
+- Database Design (MongoDB, MySQL, Redis)
+- System Design & API Development
+
+🔥 Consistently building projects and improving engineering skills through hands-on development.
 
 ## 🎯 2026 Goals
 
