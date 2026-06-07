@@ -90,12 +90,11 @@ Created a full-stack stock market simulation platform with real-time market data
 
 🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
-
+---
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohi5431&theme=github-dark)
 
----
 
 📌 Key Areas:
 - Backend Development (Node.js, Express.js, FastAPI)
@@ -105,7 +104,7 @@ Created a full-stack stock market simulation platform with real-time market data
 - System Design & API Development
 
 🔥 Consistently building projects and improving engineering skills through hands-on development.
-
+---
 ## 🎯 2026 Goals
 
 - Build production-grade AI applications
