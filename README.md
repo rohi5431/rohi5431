@@ -99,7 +99,7 @@ Created a full-stack stock market simulation platform with real-time market data
 📌 Key Areas:
 - Backend Development (Node.js, Express.js, FastAPI)
 - Distributed Systems & Real-Time Applications
-- AI/ML Integration & RAG Pipelines
+- AI/ML Integration 
 - Database Design (MongoDB, MySQL, Redis)
 - System Design & API Development
 
