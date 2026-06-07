@@ -103,8 +103,9 @@ Created a full-stack stock market simulation platform with real-time market data
 - Database Design (MongoDB, MySQL, Redis)
 - System Design & API Development
 
-🔥 Consistently building projects and improving engineering skills through hands-on development.
+### 🔥 Consistently building projects and improving engineering skills through hands-on development.
 ---
+
 ## 🎯 2026 Goals
 
 - Build production-grade AI applications
