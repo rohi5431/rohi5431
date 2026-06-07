@@ -95,6 +95,8 @@ Created a full-stack stock market simulation platform with real-time market data
 🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
 ---
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohi5431&theme=github-compact)](https://github.com/rohi5431)
+
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohi5431&theme=github-dark)
