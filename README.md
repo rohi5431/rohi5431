@@ -84,6 +84,31 @@ Developed an enterprise-grade file sharing platform with AES-256 encryption, OTP
 Created a full-stack stock market simulation platform with real-time market data streaming, portfolio management, and AI-driven trading signals. Integrated FastAPI-based ML services for Buy/Sell predictions, anomaly detection, and intelligent market insights.
 
 ---
+
+## 🏆 Certifications
+
+### 🏦 JPMorgan Chase & Co. Software Engineering Job Simulation
+- Completed practical backend engineering tasks in a real-world simulation environment.
+- Worked with Kafka integration, H2 database integration, REST API development, and backend controllers.
+- Strengthened skills in scalable systems, event-driven architectures, and enterprise software development.
+
+### 📊 AlgoUniversity Graph Theory Programming Camp
+- Successfully completed an advanced Graph Theory Programming Camp.
+- Solved 17 advanced graph problems under the mentorship of a Codeforces Master.
+- Enhanced problem-solving skills in graph algorithms and competitive programming.
+
+### 🌐 Tutedude MERN Stack Course
+- Completed comprehensive training in MongoDB, Express.js, React.js, and Node.js.
+- Built full-stack web applications and gained hands-on experience with REST APIs and frontend-backend integration.
+- Strengthened understanding of modern web development practices.
+
+### 🤖 NVIDIA – Getting Started with AI on Jetson Nano
+- Completed NVIDIA's AI fundamentals program focused on edge AI development.
+- Learned AI deployment concepts, computer vision workflows, and Jetson Nano ecosystem basics.
+- Gained practical exposure to AI-powered applications on embedded devices.
+
+---
+
 ## 💻 Coding Profiles
 
 🏅 LeetCode: 600+ Problems Solved
@@ -95,7 +120,6 @@ Created a full-stack stock market simulation platform with real-time market data
 🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
 ---
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohi5431&theme=github-compact)](https://github.com/rohi5431)
 
 ## 🔥 Contribution Streak
 
