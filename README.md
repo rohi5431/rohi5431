@@ -90,6 +90,18 @@ Created a full-stack stock market simulation platform with real-time market data
 
 🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
+## 📈 GitHub Contributions
+
+🚀 Made **263 contributions** in the last year across personal projects, backend systems, AI-powered applications, and open-source repositories.
+
+📌 Key Areas:
+- Backend Development (Node.js, Express.js, FastAPI)
+- Distributed Systems & Real-Time Applications
+- AI/ML Integration & RAG Pipelines
+- Database Design (MongoDB, MySQL, Redis)
+- System Design & API Development
+
+🔥 Consistently building projects and improving engineering skills through hands-on development.
 
 ## 🎯 2026 Goals
 
