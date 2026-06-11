@@ -12,12 +12,46 @@ Backend Engineer | FastAPI & MERN Developer | Distributed Systems | AI/ML Integr
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering Student  
-- 💻 Backend-focused developer  
-- ⚡ Building scalable real-time systems  
-- 🤖 Interested in AI/ML integration  
-- 📚 Strong in DSA & System Design  
-- 🏆 Solved 600+ DSA problems  
+- 🎓 Computer Science Engineering Student
+- 💻 Backend-focused developer
+- ⚡ Building scalable real-time systems
+- 🤖 Interested in AI/ML integration
+- 📚 Strong in DSA & System Design
+- 🏆 Solved 600+ DSA problems
+- 🔍 Currently building an Enterprise RAG (Retrieval-Augmented Generation) platform
+- 🧠 Working on document ingestion, embeddings, vector search, and LLM-based question answering
+- 🚀 Exploring production-grade AI infrastructure with FastAPI and vector databases
+
+## 📌 Current Project
+
+I am currently building an **Enterprise RAG Application** that allows users to upload documents and ask questions from them.
+
+### Idea of the Project
+- Users upload documents like PDFs or text files
+- The documents are split into chunks
+- Each chunk is converted into embeddings
+- Embeddings are stored in a vector database
+- When a user asks a question, the system finds the most relevant chunks
+- The retrieved context is passed to an LLM
+- The LLM generates an accurate and context-aware answer
+
+### What I am learning/building through this project
+- FastAPI backend development
+- RAG pipeline design
+- Embedding generation
+- Vector database integration
+- Semantic search
+- LLM integration
+- Scalable backend architecture
+
+### Tech Stack
+- FastAPI
+- Python
+- Qdrant / Chroma / FAISS
+- Ollama / LLMs
+- Sentence Transformers
+- SQLite / PostgreSQL
+- Docker
 
 ---
 
