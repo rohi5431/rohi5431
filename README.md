@@ -96,6 +96,15 @@ I am currently building an **Enterprise RAG Application** that allows users to u
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![FastAPI ML](https://img.shields.io/badge/ML%20Services-FastAPI-009688?style=for-the-badge)
 
+### AI Engineering / LLMs
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-purple?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-green?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20Database-red?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-AI-success?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black?style=for-the-badge)
+
 ### DevOps / Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
