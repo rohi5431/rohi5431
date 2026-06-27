@@ -198,7 +198,8 @@ Created a full-stack stock market simulation platform with real-time market data
 
 🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
-<img width="1375" height="851" alt="image" src="https://github.com/user-attachments/assets/d50c2786-d11a-4b12-8274-330e57f240d4" />
+<img width="1348" height="836" alt="image" src="https://github.com/user-attachments/assets/3eee007a-e33f-496e-8f27-8db6e423d90a" />
+
 
 
 ---
