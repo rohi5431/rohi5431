@@ -17,7 +17,7 @@ Backend Engineer | FastAPI & MERN Developer | Distributed Systems | AI/ML Integr
 - ⚡ Building scalable real-time systems
 - 🤖 Interested in AI/ML integration
 - 📚 Strong in DSA & System Design
-- 🏆 Solved 600+ DSA problems
+- 🏆 Solved 700+ DSA problems
 - 🔍 Currently building an Enterprise RAG (Retrieval-Augmented Generation) platform
 - 🧠 Working on document ingestion, embeddings, vector search, and LLM-based question answering
 - 🚀 Exploring production-grade AI infrastructure with FastAPI and vector databases
