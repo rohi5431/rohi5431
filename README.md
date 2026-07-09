@@ -193,7 +193,7 @@ Created a full-stack stock market simulation platform with real-time market data
 
 ## 💻 Coding Profiles
 
-🏅 LeetCode: 600+ Problems Solved
+🏅 LeetCode: 700+ Problems Solved
 
 🔗 https://leetcode.com/u/_rohi5431/
 
@@ -201,8 +201,7 @@ Created a full-stack stock market simulation platform with real-time market data
 
 🔗 https://www.geeksforgeeks.org/profile/rohitkarby?tab=activity
 
-<img width="1348" height="836" alt="image" src="https://github.com/user-attachments/assets/3eee007a-e33f-496e-8f27-8db6e423d90a" />
-
+<img width="1453" height="905" alt="image" src="https://github.com/user-attachments/assets/4cc203da-bee3-47ad-8daf-b2638758f235" />
 
 
 ---
