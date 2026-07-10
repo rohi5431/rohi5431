@@ -62,7 +62,7 @@ https://ais-pre-erc7tgogcr3tnmkqtx67nx-237155477162.asia-southeast1.run.app
 
 I am currently building an **Enterprise RAG Application** that allows users to upload documents and ask questions from them.
 #### Link: https://github.com/rohi5431/Enterprise-RAG-Application-
-#### Live Demo: https://ais-pre-tfiua5fhtnlfaungmzfg6a-18924415367.asia-east1.run.app/
+
 ### Idea of the Project
 - Users upload documents like PDFs or text files
 - The documents are split into chunks
