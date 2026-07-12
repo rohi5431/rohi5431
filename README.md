@@ -61,8 +61,8 @@ https://ais-pre-erc7tgogcr3tnmkqtx67nx-237155477162.asia-southeast1.run.app
 ## 📌 Current Project
 
 I am currently building an **Enterprise RAG Application** that allows users to upload documents and ask questions from them.
-#### Link: https://github.com/rohi5431/Enterprise-RAG-Application-
-#### Live Demo https://enterprise-rag-application-3.onrender.com
+#### 🔗 Link: https://github.com/rohi5431/Enterprise-RAG-Application-
+#### 🌐 Live Demo https://enterprise-rag-application-3.onrender.com
 
 ### Idea of the Project
 - Users upload documents like PDFs or text files
