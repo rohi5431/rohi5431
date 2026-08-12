@@ -60,36 +60,110 @@ https://ais-pre-erc7tgogcr3tnmkqtx67nx-237155477162.asia-southeast1.run.app
 
 ## 📌 Current Project
 
-I am currently building an **Enterprise RAG Application** that allows users to upload documents and ask questions from them.
-#### 🔗 Link: https://github.com/rohi5431/Enterprise-RAG-Application-
-#### 🌐 Live Demo https://enterprise-rag-application-3.onrender.com
+I am currently building an **Enterprise Document Intelligence & RAG Platform** that allows users to upload documents and ask questions from them.
+#### 🔗 Link: https://github.com/rohi5431/enterprise-document-intelligence-rag
+#### 🌐 Live Demo v1 https://enterprise-rag-application-3.onrender.com
 
 ### Idea of the Project
-- Users upload documents like PDFs or text files
-- The documents are split into chunks
-- Each chunk is converted into embeddings
-- Embeddings are stored in a vector database
-- When a user asks a question, the system finds the most relevant chunks
-- The retrieved context is passed to an LLM
-- The LLM generates an accurate and context-aware answer
 
-### What I am learning/building through this project
-- FastAPI backend development
-- RAG pipeline design
-- Embedding generation
-- Vector database integration
-- Semantic search
-- LLM integration
-- Scalable backend architecture
+An **Enterprise Document Intelligence & RAG Platform** that processes digital and scanned documents, understands their structure, and uses Retrieval-Augmented Generation to provide context-aware answers.
 
-### Tech Stack
-- FastAPI
-- Python
-- Qdrant / Chroma / FAISS
-- Ollama / LLMs
-- Sentence Transformers
-- SQLite / PostgreSQL
-- Docker
+* Users upload PDF and text documents
+* The system detects digital and scanned document pages
+* Digital PDFs are processed using **PyMuPDF**
+* Scanned pages are processed using **OpenCV + PaddleOCR**
+* Document layouts such as text, tables, and figures are analyzed
+* Reading order and document structure are preserved
+* Content is split using **semantic / layout-aware chunking**
+* Chunks are converted into vector embeddings
+* Embeddings and metadata are stored in **Qdrant**
+* User queries retrieve the most relevant document context
+* The retrieved context is passed to an LLM
+* The LLM generates a grounded, context-aware response
+* Source citations provide traceability back to the document
+
+### 🧠 What I Am Learning & Building
+
+* Document AI & Intelligent Document Processing
+* PDF Processing with PyMuPDF
+* OCR with PaddleOCR
+* Image Preprocessing with OpenCV
+* Document Layout Analysis
+* Reading Order Detection
+* Semantic & Layout-Aware Chunking
+* Retrieval-Augmented Generation (RAG)
+* Embedding Generation
+* Vector Database Integration
+* Semantic & Hybrid Search
+* LLM Integration
+* Source Citation & Context Grounding
+* FastAPI Backend Development
+* Scalable Backend Architecture
+* Production-Oriented AI Systems
+
+### 🛠️ Tech Stack
+
+**Backend**
+
+* Python
+* FastAPI
+* Uvicorn
+
+**Document AI**
+
+* PyMuPDF
+* OpenCV
+* PaddleOCR
+* Layout Analysis
+* Semantic / Layout-Aware Chunking
+
+**AI / RAG**
+
+* Sentence Transformers
+* Embedding Models
+* LLMs
+* Ollama
+
+**Vector & Data**
+
+* Qdrant
+* ChromaDB
+* FAISS
+* SQLite / PostgreSQL
+
+**Infrastructure**
+
+* Docker
+* Redis
+* Nginx
+
+### 🔄 Core Pipeline
+
+```text
+Document
+   ↓
+Document Detection
+   ↓
+Digital / Scanned Routing
+   ↓
+PyMuPDF / OpenCV + PaddleOCR
+   ↓
+Layout Analysis
+   ↓
+Reading Order
+   ↓
+Semantic / Layout-Aware Chunking
+   ↓
+Embeddings
+   ↓
+Qdrant
+   ↓
+Hybrid Retrieval
+   ↓
+LLM
+   ↓
+Answer + Citations
+```
 
 ---
 
