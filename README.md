@@ -12,15 +12,15 @@ Backend & AI Engineer | Full-Stack (MERN) Developer | Distributed Systems | AI A
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Backend-focused developer
-- ⚡ Building scalable real-time systems
-- 🤖 Interested in AI/ML integration
-- 📚 Strong in DSA & System Design
-- 🏆 Solved 700+ DSA problems
-- 🔍 Currently building an Enterprise RAG (Retrieval-Augmented Generation) platform
-- 🧠 Working on document ingestion, embeddings, vector search, and LLM-based question answering
-- 🚀 Exploring production-grade AI infrastructure with FastAPI and vector databases
+- Computer Science Engineering Student
+- Backend-focused developer
+- Building scalable real-time systems
+- Interested in AI/ML integration
+- Strong in DSA & System Design
+- Solved 700+ DSA problems
+- Currently building an Enterprise RAG (Retrieval-Augmented Generation) platform
+- Working on document ingestion, embeddings, vector search, and LLM-based question answering
+- Exploring production-grade AI infrastructure with FastAPI and vector databases
 
 
 ## 🏆 Google AI Hackathon 2026
@@ -37,14 +37,14 @@ Build an AI-powered productivity assistant that proactively helps users **plan, 
 
 ### ✨ Key Highlights
 
-* 🤖 Multi-Agent AI (Planner, Prioritizer, Scheduler, Reminder & Analytics)
-* 🧠 Google Gemini AI Integration
-* 📅 Google Calendar Synchronization
-* ⚡ Smart Task Prioritization & Scheduling
-* 🔄 Autonomous Task Replanning
-* 📡 Real-Time WebSocket Dashboard
-* 📊 Productivity Analytics
-* 🔐 Secure JWT Authentication
+* Multi-Agent AI (Planner, Prioritizer, Scheduler, Reminder & Analytics)
+* Google Gemini AI Integration
+* Google Calendar Synchronization
+* Smart Task Prioritization & Scheduling
+* Autonomous Task Replanning
+* Real-Time WebSocket Dashboard
+* Productivity Analytics
+* Secure JWT Authentication
 
 ### 🛠 Tech Stack
 
