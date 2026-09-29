@@ -4,23 +4,24 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Rohit Kumar</h1> -->
 
-<h3 align="center">
-Backend & AI Engineer | Full-Stack (MERN) Developer | Distributed Systems | AI Agents • LLMs • RAG
-</h3>
+<h3 align="center"> 
+Backend & AI Engineer | Full-Stack Developer | Generative AI • RAG • Distributed Systems 
+</h3> 
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- Computer Science Engineering Student
-- Backend-focused developer
-- Building scalable real-time systems
-- Interested in AI/ML integration
-- Strong in DSA & System Design
-- Solved 700+ DSA problems
-- Currently building an Enterprise RAG (Retrieval-Augmented Generation) platform
-- Working on document ingestion, embeddings, vector search, and LLM-based question answering
-- Exploring production-grade AI infrastructure with FastAPI and vector databases
+* Computer Science Engineering Student
+* Backend-focused Full-Stack Engineer
+* Strong in Python, FastAPI, Node.js, React, PostgreSQL & MongoDB
+* Building applications with LLMs, RAG, AI Agents & Semantic Search
+* Currently building an Enterprise RAG Platform using FastAPI, Qdrant, Embeddings & LLMs
+* Experienced with LangChain, LangGraph, Hugging Face, Redis & Vector Databases
+* Exploring Docker, Kubernetes, AWS & production-grade AI infrastructure
+* Strong in DSA, System Design & Distributed Systems
+* Solved 700+ DSA problems on LeetCode
+
 
 
 ## 🏆 Google AI Hackathon 2026
