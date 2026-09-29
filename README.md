@@ -59,31 +59,32 @@ https://ais-pre-erc7tgogcr3tnmkqtx67nx-237155477162.asia-southeast1.run.app
 
 ---
 
-## 📌 Current Project
+## Current Project
 
-I am currently building an **Enterprise Document Intelligence & RAG Platform** that allows users to upload documents and ask questions from them.
-#### 🔗 Link: https://github.com/rohi5431/enterprise-document-intelligence-rag
-#### 🌐 Live Demo v1 https://enterprise-rag-application-3.onrender.com
+I am currently building an **Enterprise Document Intelligence & RAG Platform** that enables users to upload documents and ask context-aware questions using Retrieval-Augmented Generation.
 
-### Idea of the Project
+### Enterprise Document Intelligence & RAG Platform
 
-An **Enterprise Document Intelligence & RAG Platform** that processes digital and scanned documents, understands their structure, and uses Retrieval-Augmented Generation to provide context-aware answers.
+An **Enterprise Document Intelligence & RAG Platform** designed to process digital and scanned documents, understand their structure, and generate grounded answers using RAG.
 
-* Users upload PDF and text documents
-* The system detects digital and scanned document pages
-* Digital PDFs are processed using **PyMuPDF**
-* Scanned pages are processed using **OpenCV + PaddleOCR**
-* Document layouts such as text, tables, and figures are analyzed
-* Reading order and document structure are preserved
-* Content is split using **semantic / layout-aware chunking**
-* Chunks are converted into vector embeddings
-* Embeddings and metadata are stored in **Qdrant**
-* User queries retrieve the most relevant document context
-* The retrieved context is passed to an LLM
-* The LLM generates a grounded, context-aware response
-* Source citations provide traceability back to the document
+### Key Features
 
-### 🧠 What I Am Learning & Building
+* Document upload and processing for PDF and text documents
+* Digital and scanned document detection
+* Digital PDF processing using **PyMuPDF**
+* OCR-based processing using **OpenCV + PaddleOCR**
+* Document layout analysis for text, tables, and figures
+* Reading order and document structure preservation
+* Semantic and layout-aware document chunking
+* Embedding generation and vector storage
+* Vector search using **Qdrant**
+* Semantic and hybrid search for relevant context retrieval
+* LLM-based context-aware question answering
+* Source citations for document-level traceability
+* FastAPI-based backend architecture
+* Multi-session conversational document querying
+
+### What I Am Learning & Building
 
 * Document AI & Intelligent Document Processing
 * PDF Processing with PyMuPDF
@@ -101,6 +102,19 @@ An **Enterprise Document Intelligence & RAG Platform** that processes digital an
 * FastAPI Backend Development
 * Scalable Backend Architecture
 * Production-Oriented AI Systems
+
+### Tech Stack
+
+**Python • FastAPI • PyMuPDF • PaddleOCR • OpenCV • Qdrant • Embeddings • RAG • LLMs • Semantic Search • Hybrid Search**
+
+### Links
+
+**GitHub Repository:**
+https://github.com/rohi5431/enterprise-document-intelligence-rag
+
+**Live Demo:**
+https://enterprise-rag-application-3.onrender.com
+
 
 ---
 
