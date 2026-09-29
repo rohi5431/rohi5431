@@ -172,41 +172,85 @@ https://ais-pre-erc7tgogcr3tnmkqtx67nx-237155477162.asia-southeast1.run.app
 
 ---
 
-### 🚀 Distributed Job Queue System
+### Distributed Job Queue System
 
-Built a production-grade distributed job processing platform using BullMQ, Redis, Socket.IO, and Node.js. Features concurrent worker processing, retry mechanisms, dead-letter queues, and real-time monitoring dashboards for scalable background task execution.
+Built a **scalable distributed job processing platform** designed for reliable background task execution and high-concurrency workloads.
 
-### 🔐 Secure File Sharing System
+**Key Features**
 
-Developed an enterprise-grade file sharing platform with AES-256 encryption, OTP-based secure access, AI-powered Data Loss Prevention (DLP), and real-time anomaly detection. Ensures secure storage, sharing, and monitoring of sensitive files through a security-first architecture.
+* Distributed job processing with **Node.js, BullMQ & Redis**
+* Concurrent worker execution for parallel task processing
+* **Automatic retry mechanisms** for failed jobs
+* **Dead-Letter Queue (DLQ)** for permanently failed jobs
+* Real-time job status and execution monitoring using **Socket.IO**
+* Background processing architecture for decoupling heavy workloads from API requests
+* Job lifecycle tracking and failure handling
+* Designed for scalable and fault-tolerant task execution
 
-### 📈 AI-Powered Stock Market Platform
-
-Created a full-stack stock market simulation platform with real-time market data streaming, portfolio management, and AI-driven trading signals. Integrated FastAPI-based ML services for Buy/Sell predictions, anomaly detection, and intelligent market insights.
+**Tech Stack:** **Node.js • BullMQ • Redis • Socket.IO • JavaScript**
 
 ---
 
-## 🏆 Certifications
+### Secure File Sharing System
 
-### 🏦 JPMorgan Chase & Co. Software Engineering Job Simulation
-- Completed practical backend engineering tasks in a real-world simulation environment.
-- Worked with Kafka integration, H2 database integration, REST API development, and backend controllers.
-- Strengthened skills in scalable systems, event-driven architectures, and enterprise software development.
+Developed an **enterprise-focused secure file-sharing platform** designed to protect sensitive files through encryption, secure access control, and intelligent security monitoring.
 
-### 📊 AlgoUniversity Graph Theory Programming Camp
-- Successfully completed an advanced Graph Theory Programming Camp.
-- Solved 17 advanced graph problems under the mentorship of a Codeforces Master.
-- Enhanced problem-solving skills in graph algorithms and competitive programming.
+**Key Features**
 
-### 🌐 Tutedude MERN Stack Course
-- Completed comprehensive training in MongoDB, Express.js, React.js, and Node.js.
-- Built full-stack web applications and gained hands-on experience with REST APIs and frontend-backend integration.
-- Strengthened understanding of modern web development practices.
+* **AES-256 encryption** for secure file protection
+* **OTP-based secure access** for controlled file sharing
+* AI-powered **Data Loss Prevention (DLP)** for identifying sensitive content
+* **Real-time anomaly detection** for suspicious file-sharing activity
+* Secure file storage and controlled access
+* Security-first architecture for sensitive data handling
+* Monitoring of file-sharing activity and potential security threats
 
-### 🤖 NVIDIA – Getting Started with AI on Jetson Nano
-- Completed NVIDIA's AI fundamentals program focused on edge AI development.
-- Learned AI deployment concepts, computer vision workflows, and Jetson Nano ecosystem basics.
-- Gained practical exposure to AI-powered applications on embedded devices.
+**Tech Stack:** **Python • FastAPI • AES-256 • OTP • AI/ML • DLP • Anomaly Detection**
+
+---
+
+### AI-Powered Stock Market Platform
+
+Built a **full-stack stock market simulation platform** combining real-time market data, portfolio management, and machine-learning-based market analysis.
+
+**Key Features**
+
+* Real-time **market data streaming**
+* Portfolio creation and management
+* AI-driven **Buy/Sell trading signals**
+* **FastAPI-based ML services** for model inference
+* Market prediction and intelligent trading insights
+* **Anomaly detection** for identifying unusual market behavior
+* Backend services designed to separate trading application logic from ML inference
+* Interactive platform for simulated trading and portfolio analysis
+
+**Tech Stack:** **React • FastAPI • Python • Machine Learning • Real-Time Data • REST APIs**
+
+
+
+---
+
+## Certifications
+
+### JPMorgan Chase & Co. — Software Engineering Job Simulation
+
+* Completed practical backend engineering tasks involving **Kafka, H2 Database, REST APIs, and backend controllers**.
+* Gained hands-on exposure to **event-driven architecture, microservices concepts, and enterprise backend development**.
+
+### AlgoUniversity — Graph Theory Programming Camp
+
+* Completed an advanced **Graph Theory Programming Camp** under the mentorship of a **Codeforces Master**.
+* Solved **17 advanced graph problems**, strengthening algorithmic problem-solving and competitive programming skills.
+
+### Tutedude — MERN Stack Course
+
+* Completed comprehensive training in **MongoDB, Express.js, React.js, and Node.js**.
+* Built full-stack applications using **REST APIs, frontend-backend integration, and modern web development practices**.
+
+### NVIDIA — Getting Started with AI on Jetson Nano
+
+* Completed NVIDIA's **AI fundamentals program** focused on edge AI and the Jetson Nano ecosystem.
+* Gained exposure to **AI deployment, computer vision workflows, and embedded AI applications**.
 
 ---
 
@@ -230,27 +274,30 @@ Created a full-stack stock market simulation platform with real-time market data
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohi5431&theme=github-dark)
 
 
-📌 Key Areas:
-- Backend Development (Node.js, Express.js, FastAPI)
-- Distributed Systems & Real-Time Applications
-- AI/ML Integration 
-- Database Design (MongoDB, MySQL, Redis)
-- System Design & API Development
+## Key Areas
 
-### 🔥 Consistently building projects and improving engineering skills through hands-on development.
+* Backend Development — **Python, FastAPI, Node.js, Express.js**
+* AI Engineering — **LLMs, RAG, AI Agents, Embeddings & Semantic Search**
+* Distributed Systems & **Real-Time Applications**
+* Database & Data Infrastructure — **PostgreSQL, MongoDB, MySQL, Redis, Qdrant**
+* System Design, **REST APIs & Scalable Architecture**
+* Cloud & DevOps — **Docker & AWS**
+
+
+###  Consistently building projects and improving engineering skills through hands-on development.
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
-- Build production-grade AI applications
-- Master System Design
-- Contribute to Open Source
-- Crack Software Engineering roles
+* Build and deploy production-grade **AI and backend systems**
+* Strengthen **System Design and Distributed Systems** expertise
+* Contribute to meaningful **Open Source projects**
+* Secure a **Backend / AI / Software Engineering role**
 
+## Currently Working On
 
-## 👨‍💻 Currently Working On
-
-- Building scalable backend systems  
-- Real-time dashboards and distributed architectures  
-- AI/ML integration with full-stack applications  
-- DSA and system design improvement  
+* Building **Enterprise RAG and AI-powered applications**
+* Designing scalable **backend and distributed systems**
+* Developing **real-time applications and monitoring dashboards**
+* Exploring **LLMs, AI Agents, RAG, and Vector Databases**
+* Improving **DSA, System Design, and production engineering skills**
