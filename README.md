@@ -23,42 +23,6 @@ Backend & AI Engineer | Full-Stack Developer | Generative AI • RAG • Distrib
 * Solved 700+ DSA problems on LeetCode
 
 
-
-## 🏆 Google AI Hackathon 2026
-
-### 🚀 Last-Minute Life Saver
-
-**VIBE2SHIP – Coding Ninjas × Google for Developers**
-
-An AI-powered productivity companion built for the **Google AI Hackathon 2026** that transforms user goals into intelligent execution plans using **Google Gemini AI** and a **Multi-Agent AI Architecture**.
-
-### 🎯 Problem Statement
-
-Build an AI-powered productivity assistant that proactively helps users **plan, prioritize, schedule, and complete tasks before deadlines are missed**, going beyond traditional reminder applications.
-
-### ✨ Key Highlights
-
-* Multi-Agent AI (Planner, Prioritizer, Scheduler, Reminder & Analytics)
-* Google Gemini AI Integration
-* Google Calendar Synchronization
-* Smart Task Prioritization & Scheduling
-* Autonomous Task Replanning
-* Real-Time WebSocket Dashboard
-* Productivity Analytics
-* Secure JWT Authentication
-
-### 🛠 Tech Stack
-
-**React • FastAPI • PostgreSQL • Redis • Celery • LangChain • Google Gemini AI • Google Calendar API • WebSockets • Docker**
-
-🔗 **GitHub Repository:**
-https://github.com/rohi5431/Last-Minute-Life-Savers
-
-🌐 **Live Demo:**
-https://ais-pre-erc7tgogcr3tnmkqtx67nx-237155477162.asia-southeast1.run.app
-
----
-
 ## Current Project
 
 I am currently building an **Enterprise Document Intelligence & RAG Platform** that enables users to upload documents and ask context-aware questions using Retrieval-Augmented Generation.
@@ -117,6 +81,35 @@ https://enterprise-rag-application-3.onrender.com
 
 
 ---
+
+## Google AI Hackathon 2026
+
+### Last-Minute Life Saver
+
+**VIBE2SHIP – Coding Ninjas × Google for Developers**
+
+Participated in the **Google AI Hackathon 2026** and received a **Participation Certificate** for building an AI-powered productivity assistant using **Google Gemini AI** and a **Multi-Agent Architecture**.
+
+### Key Features
+
+* Multi-Agent AI for planning, prioritization & scheduling
+* Google Gemini AI Integration
+* Google Calendar Synchronization
+* Smart Task Scheduling & Replanning
+* Real-Time WebSocket Updates
+* Productivity Analytics
+* JWT Authentication
+
+### Tech Stack
+
+**React • FastAPI • PostgreSQL • Redis • Celery • LangChain • Google Gemini AI • Google Calendar API • WebSockets • Docker**
+
+🔗 **GitHub Repository:**
+https://github.com/rohi5431/Last-Minute-Life-Savers
+
+🌐 **Live Demo:**
+https://ais-pre-erc7tgogcr3tnmkqtx67nx-237155477162.asia-southeast1.run.app
+
 
 ## 🌐 Connect With Me
 
